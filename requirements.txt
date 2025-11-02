@@ -1,0 +1,5 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+orjson==3.10.7
+rich==13.6.4
+pydantic==2.11.5
